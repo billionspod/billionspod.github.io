@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ep4 - Jim's Gym for Jims: a Gym for Life Skills"
-description: "Episode 4, is back to create a gym for practical skills"
+description: "Murphy McLachlan is back to create a gym for practical skills"
 tags: [episodes, Murphy McLachlan]
 categories: [episodes]
 image:
