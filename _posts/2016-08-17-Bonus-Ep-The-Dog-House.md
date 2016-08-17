@@ -5,7 +5,7 @@ description: "Simon & Murphy go to scope out their newly discovered competition 
 tags: [Murphy McLachlan]
 categories: []
 image:
-  feature: doghousebonus.jpeg
+  feature: doghousebonus.jpg
   credit:
 creditlink:
 comments: yes
