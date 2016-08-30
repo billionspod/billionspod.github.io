@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ep6 - Wholesome Dating App"
-description: "Ever had someone be a creep to you on a dating app? Rose Callaghan & Simon Cumming have and they think they have the solution. Get the mums involved!"
+description: "Ever had someone be a creep to you on a dating app? Rose Callaghan & Simon Cumming have and they have the solution. Get the mums involved!"
 tags: [episodes, Rose Callaghan]
 categories: [episodes]
 image:
@@ -14,7 +14,7 @@ share: yes
 
 Episode 6!
 
-Ever had someone be a creep to you on a dating app? **Rose Callaghan** & Simon Cumming have and they think they have the solution. Get the mums involved!
+Ever had someone be a creep to you on a dating app? **Rose Callaghan** & Simon Cumming have and they have the solution. Get the mums involved!
 
 Listen into the creation of the world's most wholesome dating app, it will melt your little heart. What does the 'DOB' button do? You'll have to hear the episode to find out.
 
