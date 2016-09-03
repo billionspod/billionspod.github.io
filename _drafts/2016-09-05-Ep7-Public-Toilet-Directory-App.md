@@ -5,7 +5,7 @@ description: "Ever need to use the toilet out and about but don't want it to be 
 tags: [episodes, Perri Cassie]
 categories: [episodes]
 image:
-  feature: zomaturd.jpg
+  feature: zomaturdcrop.jpg
   credit: 
 creditlink:
 comments: yes
