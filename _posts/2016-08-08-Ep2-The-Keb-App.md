@@ -20,7 +20,7 @@ We talk profiles, promotions and monopolies. It gets truly evil.
 
 Check it out!
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4566197/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/render-playlist/no/custom-color/87A93A/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.omnycontent.com/w/player/?orgId=f74cc2ac-5cea-4914-99d8-a67c008ca26e&programId=df7f3c35-9d13-4dc2-baa6-a67c008d8993&clipId=da619b0c-eff1-485f-890b-a67c008d8abb" width="100%" height="150px" frameborder="0"></iframe>
 
 #### You can find more stuff from Kate here:
 

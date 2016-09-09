@@ -16,7 +16,7 @@ Episode 4!
 
 **Murphy McLachlan** is back to follow up on our bar for dogs and create a gym for practical skills.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4566229/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/render-playlist/no/custom-color/87A93A/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.omnycontent.com/w/player/?orgId=f74cc2ac-5cea-4914-99d8-a67c008ca26e&programId=df7f3c35-9d13-4dc2-baa6-a67c008d8993&clipId=4cca6aa2-111d-4ac0-b60f-a67c008da442" width="100%" height="150px" frameborder="0"></iframe>
 
 #### You can find more stuff from Murphy here:
 
