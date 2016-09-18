@@ -5,7 +5,7 @@ description: "Alex Ward brings in her idea for an app for finding houseparties"
 tags: [episodes, Alex Ward]
 categories: [episodes]
 image:
-  feature: lockins1400.jpg
+  feature: lockinscrop.jpg
   credit: 
 creditlink:
 comments: yes
