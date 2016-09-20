@@ -1,5 +1,5 @@
-title: Let's Make Billions Podcast
-description: "The comedy podcast that starts a brand new business each week"
+title: Let's Make Billions | Free comedy business podcast
+description: "Free comedy podcast that starts a brand new business each week!"
 disqus_shortname:
 reading_time: false
 words_per_minute: 200
@@ -11,7 +11,7 @@ url: http://www.letsmakebillions.com
 owner:
   name: Simon Cumming
   avatar:         IMG_6116.jpg
-  bio:            "Comedian, Engineer, All-Round Great Dude"
+  bio:            "Melbourne Comedian & Genius"
   email:          info@letsmakebillions.com
   twitter:          simonbcumming
   # Social networking links used in footer. Update and remove as you like.
@@ -20,7 +20,7 @@ facebook:
 github:
 stackexchange:
 linkedin:
-instagram: simonbrc
+instagram:
 flickr:
 tumblr:
   # google plus id, include the '+', eg +mmistakes
@@ -38,7 +38,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Melbourne
 future:      true
 highlighter: rouge
 markdown:    kramdown
