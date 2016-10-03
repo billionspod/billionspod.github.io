@@ -5,7 +5,7 @@ description: "Simon & Lewis create an alternative platform for reading social me
 tags: [episodes, Lewis Dowell]
 categories: [episodes]
 image:
-  feature: socialpages1400.jpg
+  feature: socialpages1400.png
   credit: 
 creditlink:
 comments: yes
