@@ -2,8 +2,8 @@
 layout: post
 title: "3 Times This Podcast Has Already Predicted the God Damn Future"
 description: "9 Weeks in Let's Make Billions has already predicted the future 3 times"
-tags: [blog posts]
-categories: [blog posts]
+tags: [blog-posts]
+categories: [blog-posts]
 image:
   feature: predictthefuture.jpg
   credit: 
@@ -11,8 +11,6 @@ creditlink:
 comments: yes
 share: yes
 ---
-
-## 3 Times This Podcast Has Already Predicted the God Damn Future
 
 Let's Make Billions has been running 9 weeks now and in that time we've already managed to predict the future 3 times, the world is a crazy place.
 

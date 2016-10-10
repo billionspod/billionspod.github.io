@@ -22,3 +22,10 @@ Subscribe now!
 
 
 <iframe src="https://www.omnycontent.com/w/player/?orgId=f74cc2ac-5cea-4914-99d8-a67c008ca26e&programId=df7f3c35-9d13-4dc2-baa6-a67c008d8993&clipId=36851360-78a7-4bd5-930f-a6990077c59b" width="100%" height="150px" frameborder="0"></iframe>
+
+
+#### You can find more stuff from Rhi here:
+
++ [Twitter - @RhiDown](https://twitter.com/RhiDown)
++ [Instagram - @RhiDown](https://instagram.com/RhiDown)
++ [Facebook - @RhiDownComedy](https://www.facebook.com/rhidowncomedy/)
