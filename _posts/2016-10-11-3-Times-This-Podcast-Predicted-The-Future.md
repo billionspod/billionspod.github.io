@@ -20,7 +20,7 @@ Let's Make Billions has been running 9 weeks now and in that time we've already 
 
 In episode 1 of the podcast **Murphy McLachlan** & Simon started a bar for dogs.
 
-Mere weeks after recording it was announced that Melbourne would be getting its very own cafe for dogs **The Dog House**, it was around the corner from Simon's house AND IT SERVES BEER FOR DOGS!
+Two weeks after recording it was announced that Melbourne would be getting its very own cafe for dogs **The Dog House**, it was around the corner from Simon's house AND IT SERVES BEER FOR DOGS!
 
 We even did a bonus episode where the boys went to scope out the competion so you can listen all about it!
 
@@ -37,7 +37,7 @@ You can read about it here on [Broadsheet](https://www.broadsheet.com.au/nationa
 
 ![picture of $16 coffee equipment](https://www.broadsheet.com.au/media/cache/99/6f/996f1ad078eef60d6d6251841d932526.jpg)
 
-In episode 9, **Peter Jones** & Simon created a Melbourne Hipster Tour company that took a last minute pivot in the first meeting and became solely a concept for a coffee shop that sold $26 coffees.
+In episode 9, **Peter Jones** & Simon created a Melbourne Hipster Tour company that took a last minute pivot in the first meeting and became solely a coffee shop that sold $26 coffees.
 
 Move forward 3 weeks and Broadsheet is running an article on a [new cafe offering a $16 coffee](https://www.broadsheet.com.au/national/food-and-drink/article/asskicker-coffee).
 
