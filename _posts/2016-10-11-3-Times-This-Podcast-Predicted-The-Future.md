@@ -12,7 +12,9 @@ comments: yes
 share: yes
 ---
 
-Let's Make Billions has been running 9 weeks now and in that time we've already managed to predict the future 3 times, the world is a crazy place.
+Let's Make Billions is a comedy podcast that starts a new business each and every week.
+
+We've been running 9 weeks now and in that time we've already managed to predict the future 3 times, the world is a crazy place.
 
 ### 1. A Bar for Dogs Now Genuinely Exists and We've Been There
 
@@ -49,7 +51,4 @@ The future is here and baby the coffees be expensive.
 
 Funny, informative, future predicting. What a bunch of bloody geniuses. Venture capitalists get your chequebooks ready. We will be making those billions in no time!
 
-Subscribe Now!
-
-
-<a href="http://bit.ly/predictTheFutureListicleiTunes" class="btn btn-success" >Subscribe Now</a>
+<a href="http://bit.ly/predictTheFutureListicleiTunes" class="btn btn-success" >Subscribe Now!</a>
