@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "3 Times This Podcast Has Already Predicted the God Damn Future"
-description: "9 Weeks in Let's Make Billions has already predicted the future 3 times"
-tags: [blog posts]
-categories: [blog posts]
+title: "How to Subscribe to Let's Make Billions"
+description: "A guide on how to subscribe on iOS, Android, Mac or PC"
+tags:
+categories:
 image:
   feature: predictthefuture.jpg
   credit: 
@@ -12,19 +12,36 @@ comments: yes
 share: yes
 ---
 
-## 3 Times This Podcast Has Already Predicted the God Damn Future
+Every episode we ask people to subscribe to the podcast but we've realised we never described how! Well here's a guide!
 
-Let's Make Billions has been running 9 weeks now and in that time we've already managed to predict the future 3 times, the world is a crazy place.
+### Subscribing on Android
 
-### 1. A Bar for Dogs Now Genuinely Exists and We've Been There
+#### 1. Download a podcast client from the Google Play Store
 
-![picture of the doghouse dog cafe](https://www.broadsheet.com.au/media/cache/ab/a2/aba2d7c6aae1e13d693fbc17677eb741.jpg "Picture of The DOGHOUSE cafe")
+We can thoroughly reccommend **PodcastAddict** for a free option and we'll show you screenshots of that below
 
-In episode 1 of the podcast **Murphy McLachlan** & Simon started a bar for dogs.
+To find podcast apps just search "podcast" in the Google Play Store
 
-Mere weeks after recording it was announced that Melbourne would be getting its very own cafe for dogs **The Dog House**, it was around the corner from Simon's house AND IT SERVES BEER FOR DOGS!
+![picture of podcast search in google play store](/images/google-play-podcast.png "search for "podcast" in google play store")
 
-We even did a bonus episode where the boys went to scope out the competion so you can listen all about it!
+#### 2. Click the link to our podcast feed below
+
+Once you've downloaded a podcast app click this link [Let's Make Billions Podcast Feed](http://www.omnycontent.com/d/playlist/f74cc2ac-5cea-4914-99d8-a67c008ca26e/df7f3c35-9d13-4dc2-baa6-a67c008d8993/1ababd79-c1db-453a-8c7d-a67c008d899c/podcast.rss)
+
+You should then get a screen like this, click 'subscribe with' and you're done!
+
+**or**
+
+
+#### 2. Use podcast app to search
+
+Click the add podcast button then search "Let's Make Billions" and click subscribe
+
+
+### Subscribing on iOS
+
+#### 1. Open the 
+
 
 <iframe src="https://www.omnycontent.com/w/player/?orgId=f74cc2ac-5cea-4914-99d8-a67c008ca26e&programId=df7f3c35-9d13-4dc2-baa6-a67c008d8993&clipId=945134ef-886e-4a45-9b77-a67c008d9526" width="100%" height="150px" frameborder="0"></iframe>
 
@@ -39,7 +56,7 @@ You can read about it here on [Broadsheet](https://www.broadsheet.com.au/nationa
 
 ![picture of $16 coffee equipment](https://www.broadsheet.com.au/media/cache/99/6f/996f1ad078eef60d6d6251841d932526.jpg)
 
-In episode 9, **Peter Jones** & Simon created a Melbourne Hipster Tour company that took a last minute pivot in the first meeting and became solely a concept for a coffee shop that sold $26 coffees.
+In episode 9, **Peter Jones** & Simon created a Melbourne Hipster Tour company that took a last minute pivot in the first meeting and became solely a coffee shop that sold $26 coffees.
 
 Move forward 3 weeks and Broadsheet is running an article on a [new cafe offering a $16 coffee](https://www.broadsheet.com.au/national/food-and-drink/article/asskicker-coffee).
 
@@ -51,7 +68,4 @@ The future is here and baby the coffees be expensive.
 
 Funny, informative, future predicting. What a bunch of bloody geniuses. Venture capitalists get your chequebooks ready. We will be making those billions in no time!
 
-Subscribe Now!
-
-
-<a href="http://bit.ly/predictTheFutureListicleiTunes" class="btn btn-success" >Subscribe Now</a>
+<a href="http://bit.ly/predictTheFutureListicleiTunes" class="btn btn-success" >Subscribe Now!</a>
