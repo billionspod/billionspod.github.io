@@ -24,13 +24,9 @@ To find podcast apps just search "podcast" in the Google Play Store
 
 ![picture of podcast search in google play store](/images/google-play-podcast.png "search for "podcast" in google play store")
 
-#### 2. Click the link to our podcast feed below
+#### 2. Click this button below
 
-Once you've downloaded a podcast app click this link [Let's Make Billions Podcast Feed](http://www.omnycontent.com/d/playlist/f74cc2ac-5cea-4914-99d8-a67c008ca26e/df7f3c35-9d13-4dc2-baa6-a67c008d8993/1ababd79-c1db-453a-8c7d-a67c008d899c/podcast.rss)
-
-You should then get a screen like this, click 'subscribe with' and you're done!
-
-![podcast addict subscribe with button](/images/podcast-addict-rss-subscribe-with.png "podcast addict subscribe with button")
+<a class="btn btn-success" href="http://subscribeonandroid.com/www.omnycontent.com/d/playlist/f74cc2ac-5cea-4914-99d8-a67c008ca26e/df7f3c35-9d13-4dc2-baa6-a67c008d8993/1ababd79-c1db-453a-8c7d-a67c008d899c/podcast.rss" title="Subscribe on Android">Subscribe to Let's Make Billions on Android</a>
 
 **or**
 
@@ -53,4 +49,4 @@ Click the add podcast button
 
 ### Subscribing on iOS
 
-#### 1. 
+Instructions Coming Soon
