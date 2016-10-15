@@ -28,6 +28,10 @@ To find podcast apps just search "podcast" in the Google Play Store
 
 <a class="btn btn-success" href="http://subscribeonandroid.com/www.omnycontent.com/d/playlist/f74cc2ac-5cea-4914-99d8-a67c008ca26e/df7f3c35-9d13-4dc2-baa6-a67c008d8993/1ababd79-c1db-453a-8c7d-a67c008d899c/podcast.rss" title="Subscribe on Android">Subscribe to Let's Make Billions on Android</a>
 
+##### note: if you are using the facebook browser, you need to "open in chrome" before this button will work
+
+![open in chrome](/images/open-in-chrome.png "open in chrome")
+
 #### 3. Click 'Subscribe With'
 
 ![podcast addict subscribe with button](/images/podcast-addict-rss-subscribe-with.png "podcast addict subscribe with button")
