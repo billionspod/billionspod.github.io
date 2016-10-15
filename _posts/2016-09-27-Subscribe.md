@@ -26,9 +26,9 @@ To find podcast apps just search "podcast" in the Google Play Store
 
 #### 2. Click this button below
 
-<a class="btn btn-success" href="http://subscribeonandroid.com/www.omnycontent.com/d/playlist/f74cc2ac-5cea-4914-99d8-a67c008ca26e/df7f3c35-9d13-4dc2-baa6-a67c008d8993/1ababd79-c1db-453a-8c7d-a67c008d899c/podcast.rss" title="Subscribe on Android">Subscribe to Let's Make Billions on Android</a>
+<a class="btn btn-success btn-large" href="http://subscribeonandroid.com/www.omnycontent.com/d/playlist/f74cc2ac-5cea-4914-99d8-a67c008ca26e/df7f3c35-9d13-4dc2-baa6-a67c008d8993/1ababd79-c1db-453a-8c7d-a67c008d899c/podcast.rss" title="Subscribe on Android">Subscribe to Let's Make Billions on Android</a>
 
-##### note: if you are using the facebook browser, you need to "open in chrome" before this button will work
+#### Note: if you are using the facebook or twitter browser, you need to "open in chrome" before this button will work
 
 ![open in chrome](/images/open-in-chrome.png "open in chrome")
 
@@ -59,6 +59,8 @@ Click the add podcast button
 
 #### 1.Go to Let's Make Billions in the iTunes Store by clicking the button below
 
-<a class="btn btn-info" href="https://itunes.apple.com/au/podcast/lets-make-billions-comedy/id1140431298">Let's Make Billions - iTunes</a>
+<a class="btn btn-info btn-large" href="http://www.omnycontent.com/d/playlist/f74cc2ac-5cea-4914-99d8-a67c008ca26e/df7f3c35-9d13-4dc2-baa6-a67c008d8993/1ababd79-c1db-453a-8c7d-a67c008d899c/podcast.rss">Let's Make Billions - Podcast Feed</a>
 
 #### 2.Click 'Subscribe'
+
+![itunes subscribe button](/images/itunes-subscribe.png "itunes subscribe button")
