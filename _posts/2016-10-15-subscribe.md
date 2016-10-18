@@ -59,7 +59,7 @@ Click the add podcast button
 
 #### 1.Go to Let's Make Billions in the iTunes Store by clicking the button below
 
-<a class="btn btn-info btn-large" href="http://www.omnycontent.com/d/playlist/f74cc2ac-5cea-4914-99d8-a67c008ca26e/df7f3c35-9d13-4dc2-baa6-a67c008d8993/1ababd79-c1db-453a-8c7d-a67c008d899c/podcast.rss">Let's Make Billions - Podcast Feed</a>
+<a class="btn btn-info btn-large" href="https://itunes.apple.com/au/podcast/lets-make-billions-comedy/id1140431298">Let's Make Billions - iTunes</a>
 
 #### 2.Click 'Subscribe'
 
