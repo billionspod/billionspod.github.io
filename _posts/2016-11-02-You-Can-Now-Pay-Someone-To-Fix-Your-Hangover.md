@@ -14,7 +14,7 @@ share: yes
 
 Let's Make Billions is a comedy podcast that starts a new business each and every week and has a habit of predicting the future.
 
-3 weeks ago we did a post about "[3 Times This Podcast Has Already Predicted The God Damn Future](http://www.letsmakebillions.com/blog-posts/3-Times-This-Podcast-Predicted-The-Future/)" and it's happened again, except this time we've been beaten to the punch!
+3 weeks ago we did a post about [3 Times This Podcast Has Already Predicted The God Damn Future](http://www.letsmakebillions.com/blog-posts/3-Times-This-Podcast-Predicted-The-Future/) and it's happened again, except this time we've been beaten to the punch!
 
 On this week's [episode w/ Tessa Ryan](http://www.letsmakebillions.com/episodes/Ep15-Uber-but-for/) we tried to start as many insane uber clones as we could in 30 minutes. One of them was a service that deals with the after affects of a night of drinks, crazy right? Wrong. Actual thing that currently exists and you can get it in Melbourne (and Perth but who wants to go there).
 
