@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Like Uber but for hangovers"
-description: "You can now pay someone to deal with your bad decisions"
+description: "You can now pay someone in Melbourne to deal with your bad decisions"
 tags: [blog-posts]
 categories: [blog-posts]
 image:
