@@ -5,7 +5,7 @@ description: "Summer is almost here in Australia and Simon & Daisy Berry have an
 tags: [episodes, Daisy Berry]
 categories: [episodes]
 image:
-  feature: pool-buz-1400.jpg
+  feature: pool-budz-1400.jpg
   credit: chicvilleusa.com
 creditlink:
 comments: yes
