@@ -14,6 +14,8 @@ share: yes
 
 Episode 17!
 
+![picture of Aaron Gocs from stitch up video](/images/gocs.jpg)
+
 Comedian and internet sensation **Aaron Gocs** joins Billions inc. to create an app to help people join in sports conversations they don't know quite enough about.
 
 By listening in to your conversation Talk Sports will provide you with relevant info, stats and zingers from twitter.
