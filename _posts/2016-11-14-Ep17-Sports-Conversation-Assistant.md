@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ep 17 - Sports Conversation Assistant"
-description: "Ever felt out of place in a conversation about sport? Aaron Gocs and Simon have the answer. By monitoring your conversation Sports Talk will automatically supply you with stats, zingers and more."
+description: "Ever felt out of place in a conversation about sport? Aaron Gocs and Simon have the answer. By monitoring your conversation Talk Sports will automatically supply you with stats, zingers and more."
 tags: [episodes, Aaron Gocs]
 categories: [episodes]
 image:
@@ -16,7 +16,7 @@ Episode 17!
 
 Comedian and internet sensation **Aaron Gocs** joins Billions inc. to create an app to help people join in sports conversations they don't know quite enough about.
 
-By listening in to your conversation Sports Talk will provide you with relevant info, stats and zingers from twitter.
+By listening in to your conversation Talk Sports will provide you with relevant info, stats and zingers from twitter.
 
 Listen to the episode now!
 
