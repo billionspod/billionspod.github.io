@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ep 17 - Sports Conversation Assistant"
-description: "Summer is almost here in Australia and Simon & Daisy Berry have an idea that is going to keep everyone cool and make them billions"
-tags: [episodes, Daisy Berry]
+description: "Ever felt out of place in a conversation about sport? Aaron Gocs and Simon have the answer. By monitoring your conversation Sports Talk will automatically supply you with stats, zingers and more."
+tags: [episodes, Aaron Gocs]
 categories: [episodes]
 image:
-  feature: sportstalk1400.jpg
+  feature: SportsTalk1400.jpg
   credit: 
 creditlink:
 comments: yes
