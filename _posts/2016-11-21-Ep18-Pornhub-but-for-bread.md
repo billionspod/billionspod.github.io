@@ -12,7 +12,7 @@ comments: yes
 share: yes
 ---
 
-Episode 17!
+Episode 18!
 
 Comedian **Nick Capper** co-host of the **Highway to Nothing** podcast joins Billions inc. to work on an idea Simon had in his sleep last week.
 
