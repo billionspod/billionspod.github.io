@@ -14,7 +14,7 @@ share: yes
 
 Episode 19!
 
-Zack Dyer, formerly Townsville now Melbourne Comedian makes his first ever podcast appearance as he joins Billions inc to start a social media platform / telephone hardware manufacturer that lets you send and share smells over the internet, a genius idea tweeted to us by @muddlingupsound!
+**Zack Dyer**, formerly Townsville now Melbourne Comedian makes his first ever podcast appearance as he joins Billions inc to start a social media platform / telephone hardware manufacturer that lets you send and share smells over the internet, a genius idea tweeted to us by @muddlingupsound!
 
 Listen to the episode now!
 
