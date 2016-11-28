@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ep 19 - Social Media with Smell"
-description: ""
+description: "Comedian Zack Dyer joins to start a business bringing smells to the internet"
 tags: [episodes, Zack Dyer]
 categories: [episodes]
 image:
@@ -14,7 +14,7 @@ share: yes
 
 Episode 19!
 
-Comedian **Nick Capper** co-host of the **Highway to Nothing** podcast joins Billions inc. to work on an idea Simon Zack Dyer, formerly Townsville now Melbourne Comedian makes his first ever podcast appearance as he joins Billions inc to start a social media platform / telephone hardware manufacturer that lets you send and share smells over the internet, a genius idea tweeted to us by @muddlingupsound!
+Zack Dyer, formerly Townsville now Melbourne Comedian makes his first ever podcast appearance as he joins Billions inc to start a social media platform / telephone hardware manufacturer that lets you send and share smells over the internet, a genius idea tweeted to us by @muddlingupsound!
 
 Listen to the episode now!
 
