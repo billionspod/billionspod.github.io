@@ -5,7 +5,7 @@ description: "Billions Inc. concocts a business ploy to bring back the casette"
 tags: [episodes, Firdi Billimoria]
 categories: [episodes]
 image:
-  feature: cockfighting1400.jpg
+  feature: Cassette1400.png
   credit: 
 creditlink:
 comments: yes
